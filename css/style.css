@@ -1,0 +1,334 @@
+.top-header-section{
+	
+    background: #f6f9f9;
+    padding: 20px;
+	position: relative;
+}
+
+
+
+.strict-logo{
+	
+	
+}
+.strict-logo img{
+   
+   
+}
+
+.banner{
+	background-image: url(../images/banner.jpg);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	
+}
+
+.shade {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: rgba(24, 23, 25, 0.6);
+}
+
+.content{
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+.img{
+	
+}
+.content h1{
+	
+    padding-bottom: 0;
+    margin: 0;
+    font-size: 90px;
+    color: #fff;
+}
+
+
+.content p{
+	
+    color: #fff;
+    font-size: 15px;
+    padding-bottom: 50px;
+
+}
+.btn-custom{
+	
+    background-color: transparent;
+    padding: 10px 30px;
+    color: #fff;
+    border: 2px solid #15a4fa;
+    border-radius: 5px;
+}
+
+.arrow{
+	
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    bottom: 45px;
+    transform: translate(-50%,0);
+	
+}
+
+
+.pure-design{
+	
+    background: #f6f9f9;
+    padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.header{
+	    text-align: center;
+
+}
+
+.header h2{
+	
+    color: #2d3950;
+}
+
+.header p{
+    width: 800px;
+    color: #7a818e;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.feature-section {
+	
+	
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+
+.feature-img {
+	
+width: 100px;
+	
+text-align: center;
+	
+margin: 0 auto;
+	
+height: 100px;
+	
+background: #48baff;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 65px;
+    color: white;
+    font-style: normal;
+    margin-left: 0px;
+}
+
+.feature-img i{
+	
+}
+
+.caption{}
+
+.caption h4{
+	
+    font-size: 25px;
+    padding-top: 15px;
+    color: #2d3950;
+
+}
+.caption p{
+	
+    color: #a9a9a9;
+    font-size: 15px;
+}
+
+
+
+
+.work{
+	
+    background: #f6f9f9;
+    height: 900px;
+}
+
+.works-header {
+	
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.works-header h2{
+	
+    color: #2d3950;
+    font-size: 30px;
+}
+
+.works-header p{
+    color: #96a0b3;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-bottom: 70px;
+	
+}
+
+.works-image {
+    position: relative;
+    margin-bottom: 30px;
+}
+.works-image img{
+    width: 100%;
+}
+.overlay {
+    position: absolute;
+    background:rgba(193, 64, 17, 0.6);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.works-image ul{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.works-image ul li{}
+.works-image ul li a{
+    color: #fff;
+}
+.works-image ul li a i{
+    border: 2px solid #fff;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.contact-header{
+	text-align: center;
+}
+
+.contact-header h2{
+	
+    color: #fff;
+    padding-top: 75px;
+    font-size: 35px;
+    color: #fff;
+    font-size: 35px;
+}
+
+.contact-header p{
+	
+    color: #999;
+    padding: 35px;
+	
+}
+
+.form{}
+.form-group {
+	
+    margin-bottom: 30px;
+}
+.form-control {
+	
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid #999999;
+    border-radius: 5px;
+}
+.pull-left {
+
+    color: #fff;
+    font-size: 15px;
+	
+}
+.btn btn-info {
+}
+
+
+.pull-right{
+	
+    background-color: transparent;
+    padding: 10px 30px;
+    color: #fff;
+    border: 2px solid #15a4fa;
+    border-radius: 5px;
+	
+}
+
+
+.contact{
+	background-image: url(../images/footer.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+	
+}
+
+
+.contact-header{
+	
+}
+.contact-header h2{
+	
+}
+
+.contact-header p{
+	
+}
+
+.copyright h2 {
+	color: #999;
+	font-size: 15px;
+	font-family: Myriad Pro;
+}
+
+.img-icon img {
+	padding: 15px 15px;
+	float: right;
+}
+
+
+.footer{
+	
+}
+
+.container{
+	padding:40px;
+}
+.footer p{}
+.list-inline social {}
+
+.social{
+
+    float: right;
+}
+
+.social li{}
+
+.social li a{
+	padding: 10px;
+    color: #f6f9f9;
+    text-decoration: none;
+    background: #15a4fa;
+
+}
+.social li .fa{}
+
+
